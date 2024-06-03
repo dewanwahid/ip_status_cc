@@ -2,7 +2,7 @@
 Define and formulate the status balance and status correlation clustering problem.
 
 
-# Description
+## Description
 Network (or graph) structural balance is a well-defined problem proposed and developed by Heider[1], Cartwright and Haray[2], and Davis[3]. 
 According to this problem, a social group can achieve a balanced state based on the principle that “friend of my
 friend is my friend”_ whereas _“enemy of my enemy is my enemy”_ and _“enemy of my enemy is my friend”_. 
@@ -20,7 +20,8 @@ Status Correlation Clustering (SCC) problem based on status balance definition. 
 You may read the [**full report**](https://github.com/dewanwahid/ip_status_cc/blob/main/report/Status%20correlation%20clustering%20in%20social%20networks.pdf) in here. 
 
 
-
+## Dependencies
+- [jGrapht](https://jgrapht.org/javadoc/)
 
 ### References
 [1]  F. Heider, “Attitudes and cognitive organization,” The Journal of psychology, vol. 21,
