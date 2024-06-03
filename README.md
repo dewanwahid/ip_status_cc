@@ -1,2 +1,6 @@
-# ip_status_cc
-Define and formulate the status correlation clustering problem
+# Status Correlation Clustering 
+Define and formulate the status balance and status correlation clustering problem.
+
+
+# Description 
+
