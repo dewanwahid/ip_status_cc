@@ -16,7 +16,8 @@ herself”_.
 We use the idea of status theory to define status balance and then formulate a novel type of correlation clustering problem called 
 Status Correlation Clustering (SCC) problem based on status balance definition. We also formulate the integer programming formulation for the SCC problem.
 
-#### [Full Report](https://github.com/dewanwahid/ip_status_cc/blob/main/report/Status%20correlation%20clustering%20in%20social%20networks.pdf
+
+You may read the [**full report**](https://github.com/dewanwahid/ip_status_cc/blob/main/report/Status%20correlation%20clustering%20in%20social%20networks.pdf) in here. 
 
 
 
