@@ -1,0 +1,13 @@
+# Directed graph:signedDigraph-08
+# Social network: Status Definition
+# Nodes: 06; Edges: 09 (PositiveEdges: 06; NegativeEdges: 03)
+# FromNodeId	ToNodeId	Sign(weight)
+1	2	-2
+1	5	3
+2	4	-3
+2	5	-2
+3	2	3
+3	4	2
+5	4	-4
+5	6	4
+6	1	2

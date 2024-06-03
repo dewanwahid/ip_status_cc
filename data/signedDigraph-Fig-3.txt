@@ -1,0 +1,13 @@
+# Directed graph: signedDigraph-Fig-3
+# Social network: status-balnced network
+# Nodes: 06 Edges: 09 (PositiveEdges: 07; NegativeEdges: 02)
+# FromNodeId	ToNodeId	Sign(weight)
+1	2	1
+1	5	1
+2	3	1
+2	4	1
+2	5	1
+4	3	-1
+5	4	1
+5	6	-1
+6	1	1

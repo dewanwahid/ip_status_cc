@@ -1,0 +1,14 @@
+# Directed graph: signedDigraph-Fig-6b
+# Social network: 2-status-clusterable
+# Nodes: 07 Edges: 10 (PositiveEdges: 06; NegativeEdges: 04)
+# FromNodeId	ToNodeId	Sign(weight)
+1	3	1
+1	6	-1
+2	1	-1
+3	2	1
+4	1	1
+5	3	-1
+6	5	1
+6	7	1
+7	5	1
+7	2	-1

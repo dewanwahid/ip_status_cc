@@ -1,0 +1,13 @@
+# Directed graph: signedDigraph-Fig-4
+# Social network: status-imbalanced network
+# Nodes: 06 Edges: 09 (PositiveEdges: 09; NegativeEdges: 00)
+# FromNodeId	ToNodeId	Sign(weight)
+1	2	1
+2	5	1
+3	2	1
+4	2	1
+4	3	1
+4	5	1
+5	1	1
+6	1	1
+6	5	1
