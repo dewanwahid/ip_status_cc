@@ -27,9 +27,13 @@ You may read the [**full report**](https://github.com/dewanwahid/ip_status_cc/bl
 For a given status social network, status clusters can be identify by the following script: `statusCluster\StatusBalanceClusters.java`.
 
 ### Dependencies
-- [jGrapht](https://jgrapht.org/javadoc/)
+Maven dependency of [jGrapht](https://jgrapht.org/javadoc/) to add this project:
 
-
+```
+<groupId>org.jgrapht</groupId>
+<artifactId>jgrapht-core</artifactId>
+<version>1.5.2</version
+```
 
 ## References
 [1]  F. Heider, “Attitudes and cognitive organization,” The Journal of psychology, vol. 21, no. 1, pp. 107–112, 1946.
@@ -43,3 +47,6 @@ developing paradigm, pp. 27–34, 1977.
 [4]  J. Leskovec, D. Huttenlocher, and J. Kleinberg, “Signed networks in social
 media,” in Proceedings of the SIGCHI Conference on Human Factors in Computing
 Systems. New York, NY, USA: ACM, 2010, pp. 1361–1370.
+
+
+If you have any questions, feel free to email at dfwahid@gmail.com. 
